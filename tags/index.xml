@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yunfan Zhang</title>
+    <link>https://fanhide.github.io/tags/</link>
+    <description>Recent content in Tags on Yunfan Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fanhide.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RWmutex</title>
+      <link>https://fanhide.github.io/tags/rwmutex/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/rwmutex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://fanhide.github.io/tags/go/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://fanhide.github.io/tags/golang/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mutex</title>
+      <link>https://fanhide.github.io/tags/mutex/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/mutex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>内存逃逸</title>
+      <link>https://fanhide.github.io/tags/%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://fanhide.github.io/tags/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
