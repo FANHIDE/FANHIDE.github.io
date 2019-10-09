@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>kubernetes</title>
+      <link>https://fanhide.github.io/categories/kubernetes/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mutex</title>
       <link>https://fanhide.github.io/categories/mutex/</link>
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
@@ -48,11 +57,11 @@
     </item>
     
     <item>
-      <title>projects</title>
-      <link>https://fanhide.github.io/categories/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <title>Docker</title>
+      <link>https://fanhide.github.io/categories/docker/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fanhide.github.io/categories/projects/</guid>
+      <guid>https://fanhide.github.io/categories/docker/</guid>
       <description></description>
     </item>
     

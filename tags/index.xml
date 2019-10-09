@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>kubelet</title>
+      <link>https://fanhide.github.io/tags/kubelet/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/kubelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://fanhide.github.io/tags/kubernetes/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mutex</title>
       <link>https://fanhide.github.io/tags/mutex/</link>
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
@@ -57,11 +75,29 @@
     </item>
     
     <item>
-      <title>projects</title>
-      <link>https://fanhide.github.io/tags/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <title>Docker</title>
+      <link>https://fanhide.github.io/tags/docker/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fanhide.github.io/tags/projects/</guid>
+      <guid>https://fanhide.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker client</title>
+      <link>https://fanhide.github.io/tags/docker-client/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/docker-client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker daemon</title>
+      <link>https://fanhide.github.io/tags/docker-daemon/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fanhide.github.io/tags/docker-daemon/</guid>
       <description></description>
     </item>
     
