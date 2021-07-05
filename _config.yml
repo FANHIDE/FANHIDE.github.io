@@ -11,17 +11,16 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://FANHIDE.github.io/
+url: http://FANHIDE.github.io
 baseurl: /
-title: Chris Turner
-author: Chris Turner
+title: Yunfan Zhang
+author: Yunfan Zhang
 description: Personal blog and resume
 avatar: profile.png
 email: hideleah@email.com
 github: hide # username
 #Comment out if you don't want disqus
 disqus: username
-google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
